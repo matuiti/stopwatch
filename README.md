@@ -1,3 +1,3 @@
 ストップウォッチアプリ
 
-機能【star↔️stop、reset】
+機能【 start ↔️ stop、reset 】
